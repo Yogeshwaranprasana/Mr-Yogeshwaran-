@@ -1,64 +1,204 @@
-# Mr-Yogeshwaran-
-👋 Hi, I'm Yogeshwaran PM
+<div align="center">
 
-Python Full Stack Developer
-Building real-world web applications with Python, Django and JavaScript.
+# 👋 Hi, I'm Yogeshwaran PM
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🐍 Python Full Stack Developer
+#### Building modern, scalable and user-friendly web applications with Python, Django & JavaScript.
 
-🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Backend+Developer+with+Django;Frontend+Developer+with+JavaScript;Always+Learning+New+Technologies;Building+Projects+That+Solve+Problems" />
 
-💻 Computer Science Graduate
-🌱 Learning Django, React and Next.js
-📍 Madurai, India
+</div>
+
+---
+
+# 🚀 About Me
+
+👨‍💻 Computer Science Engineering Graduate
+
+🐍 Passionate about Python Full Stack Development
+
+🌱 Currently learning Django, React, Next.js and TypeScript
+
+💡 Interested in Backend Development, REST APIs and Database Design
+
 🎯 Looking for Python Full Stack Developer opportunities
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📍 Madurai, Tamil Nadu, India
 
-🛠 Tech Stack
+⚡ I enjoy turning ideas into real-world web applications.
 
-HTML
-CSS
-JavaScript
-Python
-Django
-SQL
-React
-Bootstrap
-Tailwind
-Git
-GitHub
-VS Code
-Postman
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🛠 Tech Stack
 
-🔥 Featured Projects
+### 💻 Languages
 
-📌 Interview Prep Tracker
+`Python` `JavaScript` `HTML5` `CSS3` `SQL`
 
-A full stack web application that helps job seekers track interviews, applications and preparation.
+### ⚙ Frameworks & Libraries
 
-Tech:
-Python • Django • PostgreSQL • HTML • CSS • JavaScript
+`Django` `React` `Bootstrap` `Tailwind CSS`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🗄 Database
 
-📌 BookVault
+`PostgreSQL`
+`MySQL`
 
-Book management application with CRUD operations.
+### 🛠 Tools
 
-Tech:
-Node.js • Express • PostgreSQL • EJS
+`Git`
+`GitHub`
+`VS Code`
+`Postman`
+`Figma`
+`Vite`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-📊 GitHub Stats
+# 📂 Featured Projects
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 📌 Interview Prep Tracker
 
-📫 Connect with Me
+A complete web application that helps job seekers organize interview preparation in one place.
 
-LinkedIn
-Portfolio
-Email
+### Features
+
+✔ Job Application Tracking
+
+✔ Interview Round Management
+
+✔ Question Bank
+
+✔ Skill Tracking
+
+✔ Personal Notes
+
+✔ Dashboard Analytics
+
+**Tech Stack**
+
+`Python`
+`Django`
+`PostgreSQL`
+`HTML`
+`CSS`
+`JavaScript`
+`Bootstrap`
+
+---
+
+## 📌 BookVault
+
+A book management application with complete CRUD functionality.
+
+### Features
+
+✔ Add Books
+
+✔ Update Books
+
+✔ Delete Books
+
+✔ Search Books
+
+✔ PostgreSQL Database
+
+**Tech Stack**
+
+`Node.js`
+`Express.js`
+`PostgreSQL`
+`EJS`
+`CSS`
+
+---
+
+## 📌 Typing Speed Game
+
+An interactive typing practice application designed to improve typing speed and accuracy.
+
+### Features
+
+✔ Real-time Typing Test
+
+✔ Score Calculation
+
+✔ Speed Tracking
+
+✔ Responsive UI
+
+**Tech Stack**
+
+`HTML`
+`CSS`
+`JavaScript`
+
+---
+
+# 📚 Currently Learning
+
+- Django Advanced Concepts
+- React.js
+- Next.js
+- TypeScript
+- REST APIs
+- Cloud Deployment
+
+---
+
+# 🎯 Career Goals
+
+✔ Become an Expert Python Full Stack Developer
+
+✔ Build Scalable Web Applications
+
+✔ Contribute to Open Source Projects
+
+✔ Learn Cloud Technologies
+
+✔ Keep Improving Every Day
+
+---
+
+# 💼 Soft Skills
+
+- Team Collaboration
+- Problem Solving
+- Quick Learner
+- Self Motivation
+- Time Management
+- Communication
+
+---
+
+# 📈 GitHub Activity
+
+*(Add your GitHub stats here later)*
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+📧 Email
+
+🐙 GitHub
+
+---
+
+# 💭 Developer Quote
+
+> "Every project is a chance to learn something new and become a better developer."
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+*"Code. Learn. Improve. Repeat."* 🚀
+
+</div>
