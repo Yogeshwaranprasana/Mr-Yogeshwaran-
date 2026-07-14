@@ -17,7 +17,7 @@
 
 🐍 Passionate about Python Full Stack Development
 
-🌱 Currently learning Django, React, Next.js and TypeScript
+🌱 Completed Skills learning Django, Python, Oracle sql and Html,Css,Javascript. 
 
 💡 Interested in Backend Development, REST APIs and Database Design
 
@@ -33,7 +33,7 @@
 
 ### 💻 Languages
 
-`Python` `JavaScript` `HTML5` `CSS3` `SQL`
+`Python` `JavaScript` `HTML5` `CSS3` `SQL` 
 
 ### ⚙ Frameworks & Libraries
 
@@ -42,7 +42,8 @@
 ### 🗄 Database
 
 `PostgreSQL`
-`MySQL`
+`OracleSQL`
+
 
 ### 🛠 Tools
 
@@ -50,8 +51,7 @@
 `GitHub`
 `VS Code`
 `Postman`
-`Figma`
-`Vite`
+
 
 ---
 
@@ -135,15 +135,13 @@ An interactive typing practice application designed to improve typing speed and 
 
 ---
 
-# 📚 Currently Learning
+# 📚 Completed Skills
 
 - Django Advanced Concepts
-- React.js
-- Next.js
-- TypeScript
+- Oracle Sql
+- Postgresql
+- Front End
 - REST APIs
-- Cloud Deployment
-
 ---
 
 # 🎯 Career Goals
