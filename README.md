@@ -23,7 +23,7 @@
 
 🎯 Looking for Python Full Stack Developer opportunities
 
-📍 Madurai, Tamil Nadu, India
+📍  Tamil Nadu, India
 
 ⚡ I enjoy turning ideas into real-world web applications.
 
@@ -177,14 +177,10 @@ An interactive typing practice application designed to improve typing speed and 
 
 # 📫 Connect With Me
 
-💼 LinkedIn
-
-🌐 Portfolio
-
-📧 Email
-
-🐙 GitHub
-
+- 💼 **LinkedIn:** https://www.linkedin.com/in/yogeshwaran-pm/
+- 🌐 **Portfolio:** https://yogeshwaranprasana.github.io/portfolio/
+- 🐙 **GitHub:** https://github.com/YogeshwaranPrasana
+- 📧 **Email:** mail2yogeshpm@gmail.com
 ---
 
 # 💭 Developer Quote
